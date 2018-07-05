@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+body, html {
+  height: calc(100% - 2em);
+  margin: 0;
+  font-family: 'Montserrat';
+}
+
 body {
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,207cca+51,7db9e8+100;Blue+Gloss+Default */
   background: rgb(30,87,153); /* Old browsers */
