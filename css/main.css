@@ -17,3 +17,10 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+
+aside {
+  color: #fff;
+  display: grid;
+  grid-template-columns: auto 40px;
+  padding: 2em;
+}
